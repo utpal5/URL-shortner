@@ -80,14 +80,4 @@ curl http://localhost:5000/api/stats/abc123
 - Concurrency is handled using threading locks.
 - Comprehensive tests cover core functionality, error cases, concurrency, and edge cases.
 
-## AI Usage
 
-This implementation was assisted by AI tools for code generation and review. All AI-generated code was reviewed and modified as needed to meet the project requirements.
-
-## Submission
-
-This project is ready for submission with all tests passing and full functionality implemented.
-
----
-
-Good luck! Feel free to reach out if you have any questions.
